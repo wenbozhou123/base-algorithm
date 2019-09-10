@@ -1,4 +1,4 @@
-package com.algrithm.base;
+package com.algrithm.sort;
 
 /**
  * 直接排序
